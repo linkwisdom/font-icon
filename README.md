@@ -6,8 +6,9 @@ font-icon
 
 ### 介绍 
 
-通过Web Font的方式来显示一些图标，好处是图标可以被任意缩放、改变颜色，你需要做的只是像修改文字样式那样修改图标样式。典型的应用方案是font awsome, 但fontawsome 字体库与凤巢前端设计风格有冲突，因此需要有一套自己的字体方案；
+通过Web Font的方式来显示一些图标，好处是图标可以被任意缩放、改变颜色，你需要做的只是像修改文字样式那样修改图标样式。典型的应用方案是font awsome, 但fontawsome 字体库与凤巢前端设计风格有冲突，因此需要有一套自己的字体方案；font-icon是基于icomoon平台生成的一套字体库；下面介绍如何在icomoon中生成定制的字体图标库；
 
+- icomoon在线平台
 
 [http://icomoon.io/app/#/select](http://icomoon.io/app/#/select)
 
